@@ -17,7 +17,7 @@ Have an idea for a puzzle, investigation, lab, or problem that you'd like to see
 
 We've put together an interactive page where you can browse the **techniques and topics currently available for challenge creation**.
 
-**→ [Explore Supported Techniques](YOUR-GITHUB-PAGES-LINK)**
+**→ [Explore Supported Techniques](https://musferahahmed74.github.io/Testing-web/)**
 
 ---
 
