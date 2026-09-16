@@ -20,7 +20,7 @@ Make sure the files you submit are complete and actually work as intended.
 ### 2. Challenge Description
 
 Give the players a scenario and objective to acheive.
-Hints, if any.
+If your challenge has any hints, mention them here as well.
 
 ### 3. Challenge Metadata
 
