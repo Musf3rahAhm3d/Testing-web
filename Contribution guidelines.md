@@ -30,8 +30,9 @@ Include the basic information about your challenge:
 * **Category**
 * **Technique / MITRE ATT&CK technique**
 * **Difficulty level**
-* **Estimated completion time**, if applicable
+* **Estimated time for giving hint**, if applicable
 * **Required tools or environment**
+* **Operating system this challenge is based upon: Windows/Linux/Mac/Andrioid**
 
 This helps us organize your challenge and helps players understand what they're getting into.
 
