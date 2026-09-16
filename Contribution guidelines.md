@@ -53,7 +53,7 @@ Finally, let us know who created the challenge.
 
 Please include:
 
-* Your **GitHub username**
+* Your GitHub username
 * Your name or preferred contributor name
 * Your e-mail
 
