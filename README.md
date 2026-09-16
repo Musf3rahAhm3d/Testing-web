@@ -48,7 +48,7 @@ Ready to build something?
 5. A maintainer will review it and may ask you to make changes.
 6. Once approved, your challenge will be merged into the repository and added to TMON.
 
-For the full submission requirements, see the **[Contribution Guidelines](CONTRIBUTING-LINK)**.
+For the full submission requirements, see the **[Contribution Guidelines](https://github.com/musferahahmed74/Testing-web/blob/main/Contribution%20guidelines.md)**.
 
 Every approved and merged challenge counts toward your contributor recognition and rewards.
 
