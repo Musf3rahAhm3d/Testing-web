@@ -85,7 +85,10 @@ Winners will be announced through TMON's official announcement channel after eac
 
 ---
 ## Prizes for Top Contributors
-
+Aside from the give away, the top three contributors for each six month cycle will be awarded cash prizes as well. These will as following:
+1st prize: 150,000
+2nd prize: 125,000
+3rd prize: 100,000
 
 ##  Pre-Submission Guidelines
 
