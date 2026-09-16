@@ -87,7 +87,7 @@ Winners will be announced through TMON's official announcement channel after eac
 ## Prizes for Top Contributors
 
 
-##  Contribution Guidelines
+##  Pre-Submission Guidelines
 
 Before submitting a challenge, please make sure it:
 
@@ -103,7 +103,6 @@ Before submitting a challenge, please make sure it:
 
 Submissions that don't meet the requirements may be sent back for changes before they can be approved.
 
-For the complete requirements and challenge format, see the **[Contribution Guidelines](CONTRIBUTING-LINK)**.
 
 ---
 
@@ -115,7 +114,7 @@ Not sure how something works? Found a problem? Have an idea for improving TMON?
 
 For specific bugs or repository issues, you can also open a **GitHub Issue** and a maintainer will take a look.
 
-**→ [Ask the Community](YOUR-DISCUSSIONS-LINK)**
+**→ [Ask the Community](https://github.com/musferahahmed74/Testing-web/discussions)**
 
 ---
 
