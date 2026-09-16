@@ -1,6 +1,6 @@
 # TMON Challenges
 
-Welcome! 👋
+Welcome! 
 
 This repository is where the TMON community can **create, share, and contribute challenges** to the **TMON platform**.
 
@@ -8,17 +8,12 @@ Whether you're just starting out and want to practice creating challenges, or yo
 
 ---
 
-## 📌 What is this repo for?
-
-TMON Challenges is an **open, community-driven repository** for submitting new challenges to TMON.
+##  What is this repo for?
+TMON challenges is an open , community driven place where you can submit challenges for the TMON platform.
 
 Have an idea for a puzzle, investigation, lab, or problem that you'd like to see on the platform? This is the place to build it and submit it.
 
-Challenges can cover different **categories, techniques, and difficulty levels**. We're interested in seeing a variety of ideas and approaches from the community.
-
-### 🧩 Explore Challenge Topics
-
-Not sure what kind of challenge to create?
+### Explore Challenge Topics
 
 We've put together an interactive page where you can browse the **techniques and topics currently available for challenge creation**.
 
@@ -27,9 +22,6 @@ We've put together an interactive page where you can browse the **techniques and
 ---
 
 ## 💬 Join the Community
-
-This isn't just a place to submit files. We want it to be a place where people can **talk, ask questions, share ideas, and help each other build better challenges**.
-
 You can use **GitHub Discussions** to:
 
 * ❓ Ask questions about creating challenges
@@ -45,7 +37,7 @@ If you're not sure whether your idea is good enough for a submission, feel free 
 
 ---
 
-## 🚀 How to Contribute
+## How to Contribute
 
 Ready to build something?
 
@@ -62,7 +54,7 @@ Every approved and merged challenge counts toward your contributor recognition a
 
 ---
 
-## 🏅 Contributor Recognition — GitHub Badges
+##  Contributor Recognition — GitHub Badges
 
 We want to recognize the people who help build TMON.
 
@@ -70,11 +62,11 @@ Contributors whose challenges are approved and merged will be able to earn **Git
 
 The more challenges you successfully contribute, the higher your contributor level can become.
 
-Badge tiers and exact requirements are maintained by the TMON team. You can find the current levels on the **[Contributors page](CONTRIBUTORS-LINK)** or in the pinned community discussion.
+You can find the current acheivement levels on the **[Contributors page](CONTRIBUTORS-LINK)** 
 
 ---
 
-## 🎁 Bi-Annual Giveaway
+## Bi-Annual Giveaway
 
 We also run a **giveaway every 6 months** to thank our active contributors.
 
@@ -87,13 +79,15 @@ To be eligible:
 
 Eligible contributors will be automatically entered into the prize draw.
 
-Winners will be announced through TMON's official channels after each giveaway cycle.
+Winners will be announced through TMON's official announcement channel after each giveaway cycle.
 
 > 💡 **Tip:** Focus on creating useful, well-tested challenges rather than simply submitting as many as possible. Quality submissions make the platform better for everyone.
 
 ---
+## Prizes for Top Contributors
 
-## ✅ Contribution Guidelines
+
+##  Contribution Guidelines
 
 Before submitting a challenge, please make sure it:
 
@@ -113,7 +107,7 @@ For the complete requirements and challenge format, see the **[Contribution Guid
 
 ---
 
-## 🙋 Questions or Feedback?
+## Questions or Feedback?
 
 Not sure how something works? Found a problem? Have an idea for improving TMON?
 
@@ -125,10 +119,10 @@ For specific bugs or repository issues, you can also open a **GitHub Issue** and
 
 ---
 
-## 🌟 Thanks for Contributing
+## Thanks for Contributing
 
 Every challenge, idea, discussion, and bit of feedback helps TMON grow.
 
 Whether you're submitting your first challenge or your hundredth, **thanks for being part of it.**
 
-We can't wait to see what you build. 🛡️
+We can't wait to see what you build. 
