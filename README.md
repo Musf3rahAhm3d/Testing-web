@@ -31,7 +31,7 @@ You can use **GitHub Discussions** to:
 * 💬 Talk with other contributors
 * 📢 Follow TMON announcements and updates
 
-**→ [Join the TMON Discussions](YOUR-DISCUSSIONS-LINK)**
+**→ [Join the TMON Discussions](https://github.com/musferahahmed74/Testing-web/discussions)**
 
 If you're not sure whether your idea is good enough for a submission, feel free to bring it up in Discussions first. Someone from the community or the TMON team can help you work through it.
 
